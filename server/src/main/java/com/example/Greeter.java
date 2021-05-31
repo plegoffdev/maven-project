@@ -1,20 +1,20 @@
 package com.example;
 
 /**
- * My <b>Greeter</b>.
+ * My <b>class</b>.
  * Fonctionnalités pour les salutations
  */
 public class Greeter {
   
   /**
-  *default constructor
+  * My <b>constructor</b>.
+  * default constructor
   */
   public Greeter() {
   }
 
   /**
-  * Return a string, etc... 
-  *
+  * * My <b>method</b>.
   * @param String
   * @return String
   */
