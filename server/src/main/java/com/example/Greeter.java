@@ -1,6 +1,10 @@
 package com.example;
 
-
+/**
+ * My <b>Greeter</b>.
+ *
+ * @see Annotation
+ */
 public class Greeter {
   
   /**
@@ -10,7 +14,7 @@ public class Greeter {
 
   }
 
-    /**
+/**
 * Return a string, etc... 
 *
 * 
