@@ -1,3 +1,6 @@
+/**
+ * My <b>package</b>.
+ */
 package com.example;
 
 /**
@@ -15,7 +18,7 @@ public class Greeter {
 
   /**
   * * My <b>method</b>.
-  * @param String someone
+  * @param someone String
   * @return String
   */
   public final String greet(final String someone) {
