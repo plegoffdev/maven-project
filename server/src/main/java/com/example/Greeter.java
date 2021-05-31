@@ -1,6 +1,3 @@
-/**
- * My <b>package</b>.
- */
 package com.example;
 
 /**
