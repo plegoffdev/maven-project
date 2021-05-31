@@ -5,7 +5,6 @@ package com.example;
  * Fonctionnalités pour les salutations
  */
 public class Greeter {
-  
   /**
   * My <b>constructor</b>.
   * default constructor
