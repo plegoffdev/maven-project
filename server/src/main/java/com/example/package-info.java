@@ -1,8 +1,8 @@
 /**
- * Ce package sert à quelque chose
+ * Ce package contient la méthode main
  */
 /**
- * @author Administrateur
+ * @author Author
  *
  */
 package com.example;
