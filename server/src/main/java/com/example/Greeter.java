@@ -1,7 +1,7 @@
 package com.example;
 
 /**
- * My <b>class</b>.
+ * My <b>Greeter</b>.
  * Fonctionnalités pour les salutations
  */
 public class Greeter {
@@ -13,7 +13,7 @@ public class Greeter {
   }
 
   /**
-  * * My <b>method</b>.
+  * * My <b>method greet</b>.
   * @param someone String
   * @return String
   */
